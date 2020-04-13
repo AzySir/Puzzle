@@ -14,7 +14,6 @@ To run the container
 docker run -it -rm -p 8080:80 --name puzzle2-container azysir/whoami
 ```
 
-```
 
 Browse http://localhost:8080/api/email and see what it returns.
 
